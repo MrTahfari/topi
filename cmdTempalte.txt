@@ -1,0 +1,13 @@
+const Discord = require('discord.js');
+
+module.exports = {
+  name: "REQUIRED",
+  description: "REQUIRED",
+  aliases: ['OPTIONAL'],
+  usage: ['OPTIONAL'],
+  async execute(bot, message, args) {
+
+
+
+  }
+}

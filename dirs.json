@@ -1,0 +1,126 @@
+{
+  "Help": {
+    "help": {
+      "Description": "Lists all avaliable bot commands",
+      "Aliases": [
+        "h"
+      ]
+    },
+    "help2": {
+      "Description": "Shows all available bot commands.",
+      "Aliases": [
+        "h"
+      ]
+    },
+    "help3": {
+      "Description": "Displays avaliable bot commands",
+      "Aliases": [
+        "h"
+      ]
+    }
+  },
+  "Leveling": {
+    "rank": {
+      "Description": "Returns your current level",
+      "Aliases": [
+        "level",
+        "r"
+      ]
+    }
+  },
+  "Mod": {
+    "kick": {
+      "Description": "Kicks a user",
+      "Usage": [
+        "-kick <@user>"
+      ]
+    },
+    "nickname": {
+      "Description": "Changes a users nickname",
+      "Usage": [
+        "-nickname <@user> newNick"
+      ],
+      "Aliases": [
+        "nick"
+      ]
+    }
+  },
+  "Music": {
+    "music": {
+      "Description": "Music Commands",
+      "Aliases": [
+        "play",
+        "skip",
+        "stop",
+        "pause",
+        "queue",
+        "clear"
+      ]
+    }
+  },
+  "Other": {
+    "anime": {
+      "Description": "search up fav anime"
+    },
+    "avatar": {
+      "Description": "Returns authors/mentioned user's avatar",
+      "Usage": "-avatar [@user]",
+      "Aliases": [
+        "a"
+      ]
+    },
+    "memberinfo": {
+      "Description": "Displays information about a mentioned user",
+      "Usage": "-memberinfo <@user>"
+    },
+    "pokemon": {
+      "Description": "Guess the pokemon!",
+      "Usage": "-pokemon",
+      "Aliases": [
+        "pk"
+      ]
+    },
+    "screenshot": {
+      "Description": "Takes a screenshot of any webpage!",
+      "Aliases": [
+        "ss"
+      ]
+    },
+    "servericon": {
+      "Description": "Get avatar of the server"
+    },
+    "showhole": {
+      "Description": "For the memes"
+    },
+    "slowmode": {
+      "Description": "Adds slowmode to the current channel"
+    },
+    "snipe": {
+      "Description": "Snipe a deleted message",
+      "Usage": "-snipe"
+    },
+    "spin": {
+      "Description": "weeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "Usage": "-spin [@user]"
+    },
+    "sudo": {
+      "Description": "Makes a webhook to impersonate someone",
+      "Usage": "sudo <@user> <message>"
+    },
+    "twitter": {
+      "Description": "Gets information about a certain twitter user",
+      "Usage": "-twitter <twitterUsername>"
+    },
+    "wyr": {
+      "Description": "Would you Rather? Hmm..",
+      "Aliases": [
+        "wouldyourather"
+      ]
+    }
+  },
+  "Tickets": {
+    "panel": {
+      "Description": "open a ticket!"
+    }
+  }
+}
